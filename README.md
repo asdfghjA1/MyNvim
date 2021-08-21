@@ -15,7 +15,5 @@ and your nvim is good to go
 you can explore more and add new themes and other stuff
 
 currently its on default VScode theme 
+![Screenshot 2021-08-22 005733](https://user-images.githubusercontent.com/62688683/130333027-88cd7c7e-6dc4-4645-9753-6ab58df36fa8.png)
 
-ENJOY
-
-![Alt text](C:\Users\LENOVO\Desktop\Screenshot 2021-08-22 005733.png?raw=true "HOW IT SHOULD LOOK LIKE")
